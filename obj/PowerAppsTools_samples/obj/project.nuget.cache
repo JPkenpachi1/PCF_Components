@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UxkBGGBjCAplVYt+yEijGc/+A4Gy9UsijU/XhftnB37xGy8pFWDar/mkL+RO1K6u/imdhpL+Z9e5zwI0vIY1Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JP\\Desktop\\SYSFORE\\completed components\\radio\\obj\\PowerAppsTools_samples\\PowerAppsTools_samples.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.21.13\\microsoft.powerapps.msbuild.pcf.1.21.13.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.21.13\\microsoft.powerapps.msbuild.solution.1.21.13.nupkg.sha512"
+  ],
+  "logs": []
+}

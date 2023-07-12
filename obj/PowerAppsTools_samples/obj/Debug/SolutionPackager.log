@@ -1,0 +1,19 @@
+2023-03-28 15:39:42.385 - Info	
+Packing C:\Users\JP\Desktop\SYSFORE\completed components\radio\obj\PowerAppsTools_samples\obj\Debug\Metadata to bin\Debug\PowerAppsTools_samples.zip
+
+2023-03-28 15:39:42.393 - Info	Processing Component: Entities
+2023-03-28 15:39:42.397 - Info	Processing Component: Roles
+2023-03-28 15:39:42.399 - Info	Processing Component: Workflows
+2023-03-28 15:39:42.399 - Info	Processing Component: FieldSecurityProfiles
+2023-03-28 15:39:42.400 - Info	Processing Component: Templates
+2023-03-28 15:39:42.400 - Info	Processing Component: EntityMaps
+2023-03-28 15:39:42.401 - Info	Processing Component: EntityRelationships
+2023-03-28 15:39:42.403 - Info	Processing Component: OrganizationSettings
+2023-03-28 15:39:42.404 - Info	Processing Component: optionsets
+2023-03-28 15:39:42.404 - Info	Processing Component: CustomControls
+2023-03-28 15:39:42.414 - Info	 - SampleNamespace.Training101
+2023-03-28 15:39:42.417 - Info	Processing Component: SolutionPluginAssemblies
+2023-03-28 15:39:42.418 - Info	Processing Component: EntityDataProviders
+2023-03-28 15:39:42.441 - Info	
+Unmanaged Pack complete.
+

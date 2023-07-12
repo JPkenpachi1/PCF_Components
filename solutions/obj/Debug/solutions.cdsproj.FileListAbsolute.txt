@@ -1,0 +1,2 @@
+C:\Users\JP\Desktop\SYSFORE\completed components\radio\solutions\obj\Debug\solutions.cdsproj.AssemblyReference.cache
+C:\Users\JP\Desktop\SYSFORE\completed components\radio\solutions\obj\Debug\solutions.cdsproj.CoreCompileInputs.cache

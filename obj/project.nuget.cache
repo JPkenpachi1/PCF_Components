@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QdFCeoVe5GWbdUlDE5Y8TnWFAnjuVOA3IcA1sGdR96/M1wkM4zYfOE7WtPfXM3hLbuMrhHmOKbQHJsmOXl+6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JP\\Desktop\\SYSFORE\\completed components\\radio\\radio.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.24.3\\microsoft.powerapps.msbuild.pcf.1.24.3.nupkg.sha512"
+  ],
+  "logs": []
+}

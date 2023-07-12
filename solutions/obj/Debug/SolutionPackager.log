@@ -1,0 +1,19 @@
+2023-07-12 20:24:17.377 - Info	
+Packing C:\Users\JP\Desktop\SYSFORE\completed components\radio\solutions\obj\Debug\Metadata to bin\Debug\solutions.zip
+
+2023-07-12 20:24:17.391 - Info	Processing Component: Entities
+2023-07-12 20:24:17.395 - Info	Processing Component: Roles
+2023-07-12 20:24:17.401 - Info	Processing Component: Workflows
+2023-07-12 20:24:17.401 - Info	Processing Component: FieldSecurityProfiles
+2023-07-12 20:24:17.402 - Info	Processing Component: Templates
+2023-07-12 20:24:17.406 - Info	Processing Component: EntityMaps
+2023-07-12 20:24:17.406 - Info	Processing Component: EntityRelationships
+2023-07-12 20:24:17.410 - Info	Processing Component: OrganizationSettings
+2023-07-12 20:24:17.412 - Info	Processing Component: optionsets
+2023-07-12 20:24:17.412 - Info	Processing Component: CustomControls
+2023-07-12 20:24:17.423 - Info	 - SampleNamespace.Training101
+2023-07-12 20:24:17.426 - Info	Processing Component: SolutionPluginAssemblies
+2023-07-12 20:24:17.427 - Info	Processing Component: EntityDataProviders
+2023-07-12 20:24:17.461 - Info	
+Unmanaged Pack complete.
+

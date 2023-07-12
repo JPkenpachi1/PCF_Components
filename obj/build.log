@@ -1,0 +1,37 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean --noColor --buildMode development --outDir C:\Users\JP\Desktop\SYSFORE\completed components\radio\out\controls --buildSource MSBuild
+  
+  [3:39:29 pm] [clean]  Initializing...
+  [3:39:29 pm] [clean]  Cleaning build outputs...
+  [3:39:29 pm] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: obj\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_samples.zip
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build --noColor --buildMode development --outDir C:\Users\JP\Desktop\SYSFORE\completed components\radio\out\controls --buildSource MSBuild
+  
+  [3:39:35 pm] [build]  Initializing...
+  [3:39:35 pm] [build]  Validating manifest...
+  [3:39:35 pm] [build]  Validating control...
+  [3:39:37 pm] [build]  Running ESLint...
+  [3:39:37 pm] [build]  Generating manifest types...
+  DeprecationWarning: 'createInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+  [3:39:37 pm] [build]  Generating design types...
+  [3:39:37 pm] [build]  Compiling and bundling control...
+  [Webpack stats]:
+  asset bundle.js 10.1 KiB [emitted] (name: main)
+  cacheable modules 6.65 KiB
+    ./Training101/index.ts 4.57 KiB [built] [code generated]
+    ./Training101/HelloWorld.tsx 2.08 KiB [built] [code generated]
+  external "React" 42 bytes [built] [code generated]
+  external "FluentUIReactv8290" 42 bytes [built] [code generated]
+  webpack 5.76.2 compiled successfully in 2699 ms
+  [3:39:40 pm] [build]  Generating build outputs...
+  [3:39:40 pm] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_samples.zip
+  Solution: bin\Debug\PowerAppsTools_samples.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

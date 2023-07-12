@@ -1,0 +1,6 @@
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain\radio\obj\Debug\radio.pcfproj.AssemblyReference.cache
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain\radio\obj\Debug\radio.pcfproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain - completed components\radio\obj\Debug\radio.pcfproj.AssemblyReference.cache
+C:\Users\JP\Desktop\SYSFORE\shitherewegogain - completed components\radio\obj\Debug\radio.pcfproj.CoreCompileInputs.cache
+C:\Users\JP\Desktop\SYSFORE\completed components\radio\obj\Debug\radio.pcfproj.AssemblyReference.cache
+C:\Users\JP\Desktop\SYSFORE\completed components\radio\obj\Debug\radio.pcfproj.CoreCompileInputs.cache
